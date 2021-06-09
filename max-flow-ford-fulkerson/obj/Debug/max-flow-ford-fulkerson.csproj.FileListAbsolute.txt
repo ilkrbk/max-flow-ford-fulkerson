@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/bin/Debug/max_flow_ford_fulkerson.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/bin/Debug/max_flow_ford_fulkerson.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/obj/Debug/max-flow-ford-fulkerson.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/obj/Debug/max-flow-ford-fulkerson.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/obj/Debug/max_flow_ford_fulkerson.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/max-flow-ford-fulkerson/max-flow-ford-fulkerson/obj/Debug/max_flow_ford_fulkerson.pdb
