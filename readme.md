@@ -1,9 +1,9 @@
-# Minimum Spanning Tree
+# Max flow Ford Fulkerson
 
 ### Go to
 
 ```
-./minimum-spanning-tree/bin/Debug/test.txt
+./max-flow-ford-fulkerson/bin/Debug/test.txt
 ```
 
 Enter graff
@@ -18,15 +18,16 @@ VertexStart VertexFinish Distance
 ### File example
 
 ```
-6 8
-1 2 2
-1 6 3
+6 9
+1 2 3
+1 4 8
+4 2 9
 1 5 10
-6 2 2
-2 4 6
-5 4 2
-3 4 3
-5 3 7
+4 5 6
+5 3 3
+2 6 8
+5 6 7
+3 6 2
 ```
 
 ### Run the program
